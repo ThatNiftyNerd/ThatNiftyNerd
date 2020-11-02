@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! 👋
 You have accessed the domain of a ~~scatterbrained nerd~~ **recovering perfectionist**, trying to get every project to a reasonable place of abandonment per sprint!
 <!--
 **ThatNiftyNerd/ThatNiftyNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
